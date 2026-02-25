@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Lebile  
-**Aspiring Data Scientist | Python • Data Analysis • Machine Learning**
+** Data Scientist | Python • Data Analysis • Machine Learning**
 
 📧 Email: olabanjilebile@gmail.com
 🔗 GitHub: https://github.com/Lebile07  

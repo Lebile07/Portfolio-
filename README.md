@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Lebile  
 **Aspiring Data Scientist | Python • Data Analysis • Machine Learning**
 
-📧 Email: your-email@example.com  
+📧 Email: olabanjilebile@gmail.com
 🔗 GitHub: https://github.com/Lebile07  
 
 ---
@@ -24,7 +24,9 @@ Explored and cleaned a structured dataset to uncover patterns and insights using
 - Data Cleaning (Pandas)  
 - Exploratory Data Analysis  
 - Visualization  
-- Jupyter Notebooks  
+-  SQL for data analysis
+- - Machine Learning (classification & regression)  
+
 
 🔗 Repo: https://github.com/Lebile07/Data-Pack-2024  
 
@@ -57,8 +59,6 @@ Built a simple desktop interface using Python’s Tkinter library to practice ev
 ---
 
 ## 🚀 What I’m Learning Now
-- Machine Learning (classification & regression)  
-- SQL for data analysis  
 - Advanced visualization  
 
 ---
